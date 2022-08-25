@@ -1,0 +1,22 @@
+<div>
+    <h2 *ngIf="data?.assignStatus === 'FALSE' || data === undefined" >Assign Premission to the user</h2>
+    <h2 *ngIf="data?.assignStatus === 'TRUE'" >User has Premission</h2>
+
+    <form [formGroup]="formAssign">
+
+        <mat-form-field appearance="outline">
+            <mat-label>Premissions</mat-label>
+            <mat-select formControlName="assignStatus">
+                <mat-option value="TRUE">Assign Premission</mat-option>
+                <mat-option value="FALSE" [disabled]="data === undefined">Remove Premission</mat-option>
+            </mat-select>
+        </mat-form-field>
+
+    </form>
+    <button mat-raised-button color="primary" [disabled]="!formAssign.valid" type="submit" (click)="submitForm()">Save
+        changes</button>
+</div>
+
+<!-- <pre>
+    {{ data | json }}
+</pre> -->

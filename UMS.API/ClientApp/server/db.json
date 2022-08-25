@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Miso",
+      "lastName": "Ekser",
+      "userName": "lalala",
+      "email": "user@user.com",
+      "password": "password123",
+      "status": "FALSE"
+    },
+    {
+      "id": 2,
+      "firstName": "Momo ",
+      "lastName": "Dean",
+      "userName": "kijamet",
+      "email": "user@user.com",
+      "password": "password123",
+      "status": "FALSE"
+    },
+    {
+      "id": 3,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 4,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "mimi123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 5,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 6,
+      "firstName": "Opa",
+      "lastName": "Cupa",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 7,
+      "firstName": "NJa",
+      "lastName": "LALAL",
+      "userName": "james123",
+      "email": "user@user.com",
+      "password": "passdasdword123",
+      "status": "TRUE"
+    },
+    {
+      "id": 8,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 9,
+      "firstName": "Momo ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 10,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 12,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 13,
+      "firstName": "Opa",
+      "lastName": "Cupa",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 14,
+      "firstName": "NJa",
+      "lastName": "LALAL",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 15,
+      "firstName": "NJa",
+      "lastName": "LALAL",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 17,
+      "firstName": "Momo ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 18,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "FALSE"
+    },
+    {
+      "id": 19,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "mimi123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "TRUE"
+    },
+    {
+      "id": 20,
+      "firstName": "James ",
+      "lastName": "Dean",
+      "userName": "james123",
+      "password": "password123",
+      "email": "user@user.com",
+      "status": "TRUE"
+    },
+    {
+      "id": 21,
+      "firstName": "Opa",
+      "lastName": "Cupa",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "TRUE"
+    },
+    {
+      "id": 22,
+      "firstName": "NJa",
+      "lastName": "LALAL",
+      "userName": "james123",
+      "password": "passdasdword123",
+      "email": "user@user.com",
+      "status": "TRUE"
+    },
+    {
+      "id": 23,
+      "firstName": "Test",
+      "lastName": "Test ",
+      "userName": "test123",
+      "email": "test@test.com",
+      "password": "testtest123",
+      "status": "TRUE"
+    }
+  ],
+  "assign": [
+    {
+      "id": 1,
+      "userId": 1,
+      "assignStatus": "TRUE"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "assignStatus": "FALSE"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "assignStatus": "FALSE"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "assignStatus": "FALSE"
+    },
+    {
+      "id": 5,
+      "userId": 9,
+      "assignStatus": "FALSE"
+    },
+    {
+      "id": 6,
+      "userId": 22,
+      "assignStatus": "TRUE"
+    },
+    {
+      "id": 7,
+      "userId": 21,
+      "assignStatus": "TRUE"
+    },
+    {
+      "id": 8,
+      "userId": 10,
+      "assignStatus": "FALSE"
+    }
+  ]
+}
